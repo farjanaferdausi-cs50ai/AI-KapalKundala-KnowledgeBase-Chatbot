@@ -159,10 +159,11 @@ AI-KapalKundala-KnowledgeBase-Chatbot/
 
 ---
 
-## 👩‍💻 Author
+## **🖊️ Author**
 
 **Farjana Ferdausi**
-AI/ML Engineering — Ostad AI/ML Engineering & Data Science Program · Google Cloud Gen AI Academy APAC (Cohort 3)
+
+AI/ML Engineering & Data Science, Fellow — Google Cloud Gen AI Academy APAC Edition (Cohort 3) | Agentic AI · RAG · Gemini · ADK · BigQuery MCP · Cloud Run | Former HR Professional ( 14+ years ) at Radisson Blu Dhaka Water Garden, Bangladesh |
 
 [![GitHub](https://img.shields.io/badge/GitHub-farjanaferdausi--cs50ai-181717?style=flat-square&logo=github)](https://github.com/farjanaferdausi-cs50ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farjana--ferdausi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/farjana-ferdausi/)
